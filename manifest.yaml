@@ -1,6 +1,6 @@
 runtime:
   kind: node
-  version: 14
 commands:
+  init: npm run install
   start: npm run start
   test: npm run test
