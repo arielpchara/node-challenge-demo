@@ -1,6 +1,0 @@
-runtime:
-  kind: node
-commands:
-  init: npm run install
-  start: npm run start
-  test: npm run test
